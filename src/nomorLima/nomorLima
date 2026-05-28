@@ -1,0 +1,4 @@
+Jadi pada kode tersebut, kesalahan dapat dilihat pada penggunaan backslash “ / “.
+Untuk menunjukan path suatu folder atau file dapat menggunakan “ // “, karena di java backslash
+biasa itu dibaca sebagai escape character. Jadi ketika menulis misalnya /newFile, java malah membaca /n.
+Jadi backslash di java itu adalah “ // “, bukan “ / ‘. Atau tidak menggunakan forward slash “ / “juga dapat menjadi solusi.

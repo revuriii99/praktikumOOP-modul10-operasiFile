@@ -1,3 +1,3 @@
 Yang sudah pasti apabila kita tidak menerapkan try catch, yang akan terjadi adalah program akan crash saat kita
 run dan menunjukkan error FileNotFoundException. Oleh karena itu di semua contoh kode pada modul selalu dilapisi
-loop if-else, dan didalamnya terdapat try catch untuk mencegah error ini.
+loop if-else, dan didalamnya terdapat try catch untuk mencegah error ini..
